@@ -118,14 +118,6 @@ const styles = StyleSheet.create({
 
 ---
 
-## 🖼 Supported Image Formats
-
-- Remote image objects: `{ uri: 'https://...' }`
-- Local image assets: `require('./path/to/image.jpg')`
-- Direct string URLs: `'https://example.com/image.jpg'`
-
----
-
 ## 🧠 Best Practices
 
 - Outer container height of AlphabetList must be greater than or euqal to the alphabets height for better performance  
