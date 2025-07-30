@@ -1,0 +1,42 @@
+{
+  "name": "react-native-letter-flatlist",
+  "version": "1.0.1",
+  "description": "A performant and customizable Alphabet Section List for React Native.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": [
+    "react-native",
+    "flatlist",
+    "grid",
+    "layout",
+    "alphabetlist",
+    "letterlist",
+    "sectionlist"
+  ],
+  "author": "Antos Maman",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antosmamanktr/react-native-letter-flatlist.git"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.68.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "react": "^18.2.0",
+    "react-native": "^0.72.0",
+    "@types/react": "^18.2.0",
+    "@types/react-native": "^0.72.0"
+  }
+}

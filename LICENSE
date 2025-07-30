@@ -1,0 +1,8 @@
+# react-native-letter-flatlist
+
+A fast, lightweight masonry-style layout component for React Native — ideal for image-heavy or Pinterest-like UIs.
+
+## 📦 Install
+
+```bash
+npm install react-native-letter-flatlist
